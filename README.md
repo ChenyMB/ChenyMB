@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hi!, I am
                 <b><a target="_blank" href="link de website">Michelle Moreno</a></b>
         </samp>
 </h3>
