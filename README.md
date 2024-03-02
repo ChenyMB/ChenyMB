@@ -8,7 +8,7 @@
  <a href="https://michelle.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="michelle" />
  </a>
- <a href="https://linkedin.com/in/michelle](https://www.linkedin.com/in/michelle-moreno-best-1ba33b297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+ <a href="https://www.linkedin.com/in/michelle-moreno-best-1ba33b297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michelle"/>
  </a>
  <a href="https://instagram.com/michelle" target="_blank">
